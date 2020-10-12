@@ -1,0 +1,11 @@
+name: Notify on release
+on:
+  release:
+    types: [published]
+
+jobs:
+  test-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: test jib
+        run: echo "Release published"
