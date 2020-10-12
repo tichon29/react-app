@@ -6,7 +6,7 @@ try {
 
   core.debug('Debug Message');
   core.warning('Warning Message');
-  core.erroor('Error Message')
+  core.error('Error Message')
   const name = core.getInput('who-to-greet');
   core.setSecret(name);
   console.log(`Hello ${name}`);
