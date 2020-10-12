@@ -6,6 +6,8 @@ async function run() {
     const token = core.getInput('token');
     const title = core.getInput('title');
     const body = core.getInput('body');
+    const param = core.getInput('test_param_with_underscore');
+    console.log('Param is: ' + param);
     const assignees = core.getInput('assignees');
 
     const octokit = new github.getOctokit(token)

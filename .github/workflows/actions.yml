@@ -8,6 +8,7 @@ jobs:
         id: issue
         with:
           token: ${{secrets.GITHUB_TOKEN}}
+          test_param_with_underscore: testParam
           title: title
           body: body
           assignees: |
