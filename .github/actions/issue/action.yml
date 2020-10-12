@@ -2,6 +2,8 @@ name: Open Github issue
 author: Stephane Hervochon
 description: Open a github issue
 inputs:
+  test_param_with_underscore:
+    description: 'Test Param with underscore'
   token:
     description: 'Github token'
     required: true
