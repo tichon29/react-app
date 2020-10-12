@@ -16,11 +16,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-<<<<<<< HEAD
           Learn e
-=======
-          Learn 
->>>>>>> master
         </a>
       </header>
     </div>
