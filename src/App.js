@@ -16,7 +16,7 @@ function App() {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Learn React with Tiche Fix - Feature
+          Learn 
         </a>
       </header>
     </div>
