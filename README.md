@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://github.com/tichon29/react-app/workflows/CI/badge.svg?branch=develop&event=push)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app/workflow/CI/badge.svc?branch=develop&event=push)
 
 ## Available Scripts
 
