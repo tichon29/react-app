@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app/workflow/CI/badge.svc?branch=develop&event=push)
 
-## Available Scripts
+## Available Script
 
 In the project directory, you can run:
 
